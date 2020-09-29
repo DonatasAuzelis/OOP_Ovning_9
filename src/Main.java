@@ -7,6 +7,7 @@ public class Main {
                     + r.getDigit() +" "+r.getString());
         }
 
+        System.out.println("HEJ HEJ");
 
     }
 }
